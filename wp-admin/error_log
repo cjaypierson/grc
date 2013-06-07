@@ -1,0 +1,1 @@
+[04-Jun-2013 15:51:50] PHP Warning:  json_encode() [<a href='function.json-encode'>function.json-encode</a>]: Invalid UTF-8 sequence in argument in /home5/campiers/public_html/wp-admin/includes/class-wp-list-table.php on line 901
